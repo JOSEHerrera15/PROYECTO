@@ -1,0 +1,33 @@
+body{
+	background-color: #1BE3AB;
+}
+
+h1{
+   text-align: center;
+   font-family: Times New Roman;
+   color: orange;
+}
+
+h2{
+   text-align: center;
+   font-family: Times New Roman;
+   color: purple;
+}
+
+p{
+  font-family: Bell MT;
+  color: red;
+}
+
+input{
+	font-family: Bell MT;
+	  color: red;
+}
+
+a{
+  font-family: Times New Roman;
+  color: green;
+}
+  
+
+
